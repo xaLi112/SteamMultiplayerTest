@@ -1,0 +1,1059 @@
+﻿Log file open, 07/02/21 16:13:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogIoDispatcher: Display: Reading toc: ../../../MyProject29/Content/Paks/global.utoc
+LogIoDispatcher: Display: Mounting container '../../../MyProject29/Content/Paks/global' in location slot 0
+LogPakFile: Display: Initialized I/O dispatcher
+LogPakFile: Display: Found Pak file ../../../MyProject29/Content/Paks/MyProject29-Windows.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../MyProject29/Content/Paks/MyProject29-Windows.pak.
+LogPakFile: PakFile PrimaryIndexSize=14766
+LogPakFile: PakFile PathHashIndexSize=38154
+LogPakFile: PakFile FullDirectoryIndexSize=37175
+LogIoDispatcher: Display: Reading toc: ../../../MyProject29/Content/Paks/MyProject29-Windows.utoc
+LogIoDispatcher: Display: Mounting container '../../../MyProject29/Content/Paks/MyProject29-Windows' in location slot 0
+LogPakFile: Display: Mounted IoStore container "../../../MyProject29/Content/Paks/MyProject29-Windows"
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../MyProject29/Content/Paks/MyProject29-Windows.pak' (chunk index -1, root '../../../') mounted
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:../../../ File:../../../MyProject29/Content/Paks/MyProject29-Windows.pak)
+LogPakFile: OnPakFileMounted2Time == 0.000026
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.077280
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Bridge
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MeshModelingToolset
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin HairStrands
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.47
+LogSteamShared: Steam SDK Loaded!
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogOnline: STEAM: Steam User is subscribed 1
+LogOnline: STEAM: [AppId: 480] Client API initialized 1
+LogOnline: STEAM: Initializing SteamNetworking Layer
+LogOnline: STEAM: Missing P2PCleanupTimeout key in OnlineSubsystemSteam of DefaultEngine.ini, using default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [Steam]
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Build: ++UE5+Release-5.0-EarlyAccess-CL-16682836
+LogInit: Engine Version: 5.0.0-16682836+++UE5+Release-5.0-EarlyAccess
+LogInit: Compatible Engine Version: 5.0.0-16433597+++UE5+Release-5.0-EarlyAccess
+LogInit: Net CL: 16433597
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce RTX 3060 Ti
+LogInit: Compiled (64-bit): Jun 16 2021 04:25:07
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0-EarlyAccess
+LogInit: Command Line: 
+LogInit: Base Directory: Z:/C++ Programming/Windows/MyProject29/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 32
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 7
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 44
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 26
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 10
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: AsyncLoading2 - Created: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+LogStreaming: Display: AsyncLoading2 - Initialized
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.07.02-14.13.25:705][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2021.07.02-14.13.25:705][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.07.02-14.13.25:705][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.07.02-14.13.25:705][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2021.07.02-14.13.25:705][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.02-14.13.25:705][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2021.07.02-14.13.25:705][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2021.07.02-14.13.25:705][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.02-14.13.25:705][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:1]]
+[2021.07.02-14.13.25:705][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.02-14.13.25:705][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.02-14.13.25:705][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.02-14.13.25:705][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.02-14.13.25:705][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.02-14.13.25:705][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.07.02-14.13.25:706][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2021.07.02-14.13.25:739][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.02-14.13.25:739][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Lumen.Reflections.Allow:1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Lumen.Radiosity:1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Lumen.ScreenProbeGather.ScreenSpaceBentNormal:1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2021.07.02-14.13.25:740][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.02-14.13.25:740][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.02-14.13.25:740][  0]LogHAL: Display: Platform has ~ 16 GB [17079857152 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.02-14.13.25:740][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2021.07.02-14.13.25:740][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.02-14.13.25:740][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.Lumen.Reflections.Allow:1]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.Lumen.Radiosity:1]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.Lumen.ScreenProbeGather.ScreenSpaceBentNormal:1]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.07.02-14.13.25:741][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2021.07.02-14.13.25:741][  0]LogInit: Computer: ALI112-PC
+[2021.07.02-14.13.25:741][  0]LogInit: User: aLi112
+[2021.07.02-14.13.25:741][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.07.02-14.13.25:741][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.02-14.13.25:741][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.07.02-14.13.25:741][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.02-14.13.25:741][  0]LogMemory: Process Physical Memory: 124.04 MB used, 124.04 MB peak
+[2021.07.02-14.13.25:741][  0]LogMemory: Process Virtual Memory: 108.07 MB used, 108.07 MB peak
+[2021.07.02-14.13.25:742][  0]LogMemory: Physical Memory: 9450.45 MB used,  6838.18 MB free, 16288.62 MB total
+[2021.07.02-14.13.25:742][  0]LogMemory: Virtual Memory: 18353.84 MB used,  16366.79 MB free, 34720.62 MB total
+[2021.07.02-14.13.25:752][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.02-14.13.25:752][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2021.07.02-14.13.25:752][  0]LogInit: Using OS detected language (en-US).
+[2021.07.02-14.13.25:752][  0]LogInit: Using OS detected locale (en-US).
+[2021.07.02-14.13.25:752][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.07.02-14.13.25:783][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.02-14.13.25:818][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.02-14.13.25:818][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.02-14.13.25:862][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.02-14.13.25:862][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2021.07.02-14.13.25:862][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.02-14.13.25:972][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Ti' (Feature Level 11_1)
+[2021.07.02-14.13.25:972][  0]LogD3D11RHI:       8050/0/8144 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.07.02-14.13.25:976][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2021.07.02-14.13.25:976][  0]LogD3D11RHI:       0/0/8144 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.02-14.13.25:976][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.02-14.13.25:987][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.02-14.13.25:988][  0]LogD3D11RHI:     GPU DeviceId: 0x2486 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.02-14.13.25:988][  0]LogWindows: EnumDisplayDevices:
+[2021.07.02-14.13.25:988][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Ti' (P:1 D:1)
+[2021.07.02-14.13.25:988][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:1)
+[2021.07.02-14.13.25:988][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2021.07.02-14.13.25:989][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2021.07.02-14.13.25:989][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.07.02-14.13.25:989][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Ti
+[2021.07.02-14.13.25:989][  0]LogD3D11RHI:   Driver Version: 471.11 (internal:30.0.14.7111, unified:471.11)
+[2021.07.02-14.13.25:989][  0]LogD3D11RHI:      Driver Date: 6-21-2021
+[2021.07.02-14.13.25:989][  0]LogRHI: Texture pool is 5635 MB (70% of 8050 MB)
+[2021.07.02-14.13.26:078][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.07.02-14.13.26:078][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.02-14.13.26:078][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.07.02-14.13.26:106][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.07.02-14.13.26:107][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.07.02-14.13.26:107][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.07.02-14.13.26:124][  0]LogShaderLibrary: Display: Using ../../../MyProject29/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 3442 unique shaders.
+[2021.07.02-14.13.26:124][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2021.07.02-14.13.26:124][  0]LogShaderLibrary: Display: Logical shader library 'Global' has been created, components 1
+[2021.07.02-14.13.26:125][  0]LogTemp: Warning: Clearing the OS Cache
+[2021.07.02-14.13.26:125][  0]LogODSC: ODSC Thread active.
+[2021.07.02-14.13.26:126][  0]LogPakFile: New pak file ../../../MyProject29/Content/Paks/MyProject29-Windows.pak added to pak precacher.
+[2021.07.02-14.13.26:145][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.02-14.13.26:145][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.02-14.13.26:183][  0]LogShaderLibrary: Display: Using ../../../MyProject29/Content/ShaderArchive-MyProject29-PCD3D_SM5.ushaderbytecode for material shader code. Total 2018 unique shaders.
+[2021.07.02-14.13.26:183][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library MyProject29
+[2021.07.02-14.13.26:183][  0]LogShaderLibrary: Display: Logical shader library 'MyProject29' has been created, components 1
+[2021.07.02-14.13.26:183][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2021.07.02-14.13.26:184][  0]LogShaderLibrary: Display: Using ../../../MyProject29/Content/ShaderArchive-MyProject29-PCD3D_SM5.ushaderbytecode for material shader code. Total 2018 unique shaders.
+[2021.07.02-14.13.26:184][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library MyProject29
+[2021.07.02-14.13.26:184][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2021.07.02-14.13.26:184][  0]LogRHI: Display: Failed to open default shader pipeline cache for MyProject29 using shader platform 0.
+[2021.07.02-14.13.26:184][  0]LogInit: Using OS detected language (en-US).
+[2021.07.02-14.13.26:184][  0]LogInit: Using OS detected locale (en-US).
+[2021.07.02-14.13.26:184][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2021.07.02-14.13.26:184][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2021.07.02-14.13.26:184][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.07.02-14.13.26:184][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.07.02-14.13.26:185][  0]LogAssetRegistry: FAssetRegistry took 0.0005 seconds to start up
+[2021.07.02-14.13.26:256][  0]LogTextLocalizationManager: Compacting localization data took   0.63ms
+[2021.07.02-14.13.26:256][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.07.02-14.13.26:261][  0]LogSerialization: Display: AllowBulkDataInIoStore: 'true'
+[2021.07.02-14.13.26:261][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.02-14.13.26:261][  0]LogDeviceProfileManager: Active device profile: [000001BB69783E00][000001BB64E86280 49] Windows
+[2021.07.02-14.13.26:261][  0]LogDeviceProfileManager: Profiles: [000001BB69783E00][000001BB64E86280 49] Windows, 
+[2021.07.02-14.13.26:302][  0]LogNetVersion: MyProject29 1.0.0, NetCL: 16433597, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4273615803)
+[2021.07.02-14.13.26:332][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.02-14.13.26:332][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.02-14.13.26:332][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.07.02-14.13.26:336][  0]LogPackageLocalizationCache: Processed 23 localized package path(s) for 1 prioritized culture(s) in 0.000059 seconds
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/TextBlockHighlightShape.png' error.
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/PlainBorder.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/PlainBorder.png
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/TextBlockHighlightShape.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/WideDash_Vertical.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/WideDash_Vertical.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/WideDash_Horizontal.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/WideDash_Horizontal.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/X.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/X.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/DownArrow.png' error.
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Check.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/DownArrow.png
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Check.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SearchGlass.png' error.
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ThinLine_Horizontal.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SearchGlass.png
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ThinLine_Horizontal.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/DownArrow2.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/DownArrow2.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/VerticalPipe.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/VerticalPipe.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SubmenuArrow.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SubmenuArrow.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_mail_16x.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_mail_16x.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/UpArrow.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/UpArrow.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/WarningStripe.png' error.
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/UpArrow2.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/UpArrow2.png
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/WarningStripe.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Button_Disabled.png' error.
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ComboArrow.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ComboArrow.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/icon_Help_Default_16x.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/icon_Help_Default_16x.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/icon_Help_Hover_16x.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/icon_Help_Hover_16x.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/icon_Help_Pressed_16x.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/icon_Help_Pressed_16x.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/TextBox.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/TextBox.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/TextBox_ReadOnly.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/TextBox_ReadOnly.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/TextBox_Hovered.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/TextBox_Hovered.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/TextBox_Special.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/TextBox_Special.png
+[2021.07.02-14.13.26:345][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/TextBox_Special_Active.png' error.
+[2021.07.02-14.13.26:345][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Button_Disabled.png
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/TextBox_Special_Active.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/White.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/White.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorAppIcon.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorAppIcon.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/DashedBorder.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/DashedBorder.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/generic_pause_16x.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/generic_pause_16x.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/generic_play_16x.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/generic_play_16x.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/generic_stop_16x.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/generic_stop_16x.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/cursor_grab.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/cursor_grab.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/cursor_cardinal_cross.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/cursor_cardinal_cross.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/cursor_updown.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/cursor_updown.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/Border.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/Border.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/NoteBorder.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/NoteBorder.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/FilledBorder.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/FilledBorder.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/view_button.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/view_button.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/link.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/link.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/ExpansionButton_ExpandedLeft.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/ExpansionButton_ExpandedLeft.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/ExpansionButton_Collapsed.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/ExpansionButton_Collapsed.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/ExpansionButton_ExpandedMiddle.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/ExpansionButton_ExpandedMiddle.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/ExpansionButton_ExpandedRight.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/ExpansionButton_ExpandedRight.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/UniformShadow.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/UniformShadow.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/UniformShadow_Tint.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/UniformShadow_Tint.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Spinbox.png' error.
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Spinbox_Hovered.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Spinbox_Hovered.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Spinbox_Fill.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Spinbox_Fill.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Spinbox_Fill_Hovered.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Spinbox_Fill_Hovered.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SpinArrows.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SpinArrows.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ThrobberPiece_Small.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ThrobberPiece_Small.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/FitHorz_16x.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/FitHorz_16x.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/FitVert_16x.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/FitVert_16x.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Key.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Key.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Tangent.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Tangent.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_file_choosepackages_16px.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_file_choosepackages_16px.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_Docs_16x.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_Docs_16x.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_Blueprint_Enum_16x.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_Blueprint_Enum_16x.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_world_16x.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_world_16x.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Docking/AppTabContentArea.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Docking/AppTabContentArea.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/Menu_Background.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/Menu_Background.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_locked_16px.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_locked_16px.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_locked_highlight_16px.png' error.
+[2021.07.02-14.13.26:346][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_locked_highlight_16px.png
+[2021.07.02-14.13.26:346][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_unlocked_16px.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_unlocked_16px.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_unlocked_hi_16px.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_unlocked_hi_16px.png
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Spinbox.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_LockedReadOnly_16px.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_LockedReadOnly_16px.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_Save_16px.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_Save_16px.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_LockedReadOnly_hi_16px.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_LockedReadOnly_hi_16px.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_Save_hi_16px.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_Save_hi_16px.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_SaveModified_hi_16px.png' error.
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_SaveModified_16px.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_SaveModified_hi_16px.png
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_SaveModified_16px.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_SaveDisabled_16px.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_SaveDisabled_16px.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_SaveDisabled_hi_16px.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_SaveDisabled_hi_16px.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_Blueprint_16px.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_Blueprint_16px.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_Blueprint_hi_16px.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_Blueprint_hi_16px.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/Empty_16x.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/Empty_16x.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_addlayer_16x.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_addlayer_16x.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_simulationviewpos_16x.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_simulationviewpos_16x.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_mouselocation_16x.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_mouselocation_16x.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_marqueerectsize_16x.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_marqueerectsize_16x.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_worldsize_16x.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_worldsize_16x.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_worldorigin_16x.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_worldorigin_16x.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_PanRight.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_PanRight.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_PanUp.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_PanUp.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_PanLeft.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_PanLeft.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_PanDown.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_PanDown.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_blueprinttype_7x16.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_blueprinttype_7x16.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_levelsmenu_40x.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_levelsmenu_40x.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_hierarchybutton_16x.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_hierarchybutton_16x.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_detailsbutton_40x.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_detailsbutton_40x.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_compositionbutton_16x.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_compositionbutton_16x.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/WorldPartition/PartiallyLoadedCell.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/WorldPartition/PartiallyLoadedCell.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/WorldPartition/GridBackground.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/WorldPartition/GridBackground.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/PushPin_Down.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/PushPin_Down.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_RestoreFromImmersive_16px.png' error.
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/PushPin_Up.png' error.
+[2021.07.02-14.13.26:347][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/PushPin_Up.png
+[2021.07.02-14.13.26:347][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/PushPin_Up_VR.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/PushPin_Up_VR.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/PushPin_Down_VR.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/PushPin_Down_VR.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ScreenAttach_VR.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ScreenAttach_VR.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ScreenDetach_VR.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ScreenDetach_VR.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/PlusSymbol_12x.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/PlusSymbol_12x.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/Cross_12x.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/Cross_12x.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ArrowUp_12x.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ArrowUp_12x.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ArrowDown_12x.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ArrowDown_12x.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_PropertyMatrix_16px.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_PropertyMatrix_16px.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_tab_SelectionDetails_16x.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_tab_SelectionDetails_16x.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/TinyChalkArrow.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/TinyChalkArrow.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Starship/ContentBrowser/drop-shadow.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Starship/ContentBrowser/drop-shadow.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/HorizontalDottedLine_16x1px.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/HorizontalDottedLine_16x1px.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/VerticalDottedLine_1x16px.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/VerticalDottedLine_1x16px.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/PropertyView/SlateBrushPreview_32px.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/PropertyView/SlateBrushPreview_32px.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SmallArrowRight.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SmallArrowRight.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ColumnBorder.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ColumnBorder.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Selection.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Selection.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/CellBorder.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/CellBorder.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ReadOnlyEditModeCellBorder.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ReadOnlyEditModeCellBorder.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ReadOnlyCellBorder.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ReadOnlyCellBorder.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/CurrentCellBorder.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/CurrentCellBorder.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ReadOnlySelectedCellBorder.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ReadOnlySelectedCellBorder.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ReadOnlyCurrentCellBorder.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ReadOnlyCurrentCellBorder.png
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_RestoreFromImmersive_16px.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/GroupBorder.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/GroupBorder.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/FilterSearch.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/FilterSearch.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/FilterCancel.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/FilterCancel.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EmptyStar_16x.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EmptyStar_16x.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/PropertyView/CategoryBackground.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/PropertyView/CategoryBackground.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/pillarray_12x.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/pillarray_12x.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ellipsis_12x.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ellipsis_12x.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/levels_16x.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/levels_16x.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/eyedropper_16px.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/eyedropper_16px.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/EditableTextSelectionBackground.png' error.
+[2021.07.02-14.13.26:348][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/EditableTextSelectionBackground.png
+[2021.07.02-14.13.26:348][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/PropertyView/Favorites_Enabled.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/PropertyView/Favorites_Enabled.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/PropertyView/Favorites_Disabled.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/PropertyView/Favorites_Disabled.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/PropertyView/NoFavoritesSystem.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/PropertyView/NoFavoritesSystem.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ScrollBoxShadowTop.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ScrollBoxShadowTop.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/VerticalBoxDropZoneIndicator_Below.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/VerticalBoxDropZoneIndicator_Below.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ArrayDropShadow.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ArrayDropShadow.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ButtonHoverHint.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ButtonHoverHint.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Button/simple_sharp_normal.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Button/simple_sharp_normal.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Button/simple_sharp_hovered.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Button/simple_sharp_hovered.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Button/simple_round_normal.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Button/simple_round_normal.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Button/simple_round_hovered.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Button/simple_round_hovered.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/RoundedSelection_16x.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/RoundedSelection_16x.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/FlatButton.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/FlatButton.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/CheckBox.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/CheckBox.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/CheckBox_Hovered.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/CheckBox_Hovered.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/CheckBox_Checked_Hovered.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/CheckBox_Checked_Hovered.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/CheckBox_Checked.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/CheckBox_Checked.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/CheckBox_Undetermined_Hovered.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/CheckBox_Undetermined_Hovered.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/CheckBox_Undetermined.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/CheckBox_Undetermined.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ShadowComboArrow.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ShadowComboArrow.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/TextBox_Special_Hovered.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/TextBox_Special_Hovered.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Selector.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Selector.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/PropertyView/DetailCategoryMiddle_Hovered.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/PropertyView/DetailCategoryMiddle_Hovered.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/PropertyView/DetailCategoryMiddle.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/PropertyView/DetailCategoryMiddle.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Pause_24x_OFF.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Pause_24x_OFF.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Play_24x_OFF.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Play_24x_OFF.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Pause_24x.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Pause_24x.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Play_24x.png' error.
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Step_Forward_24x_OFF.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Step_Forward_24x_OFF.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Step_Forward_24x.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Step_Forward_24x.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Go_To_End_24x_OFF.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Go_To_End_24x_OFF.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Go_To_End_24x.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Go_To_End_24x.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Backwards_24x_OFF.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Backwards_24x_OFF.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Backwards_24x.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Backwards_24x.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Step_Backwards_24x_OFF.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Step_Backwards_24x_OFF.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Step_Backwards_24x.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Step_Backwards_24x.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Go_To_Front_24x_OFF.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Go_To_Front_24x_OFF.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Go_To_Front_24x.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Go_To_Front_24x.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_24x_OFF.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_24x_OFF.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_24x.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_24x.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_Toggle_24x_OFF.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_Toggle_24x_OFF.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_Toggle_24x.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_Toggle_24x.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_SelectionRange_24x_OFF.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_SelectionRange_24x_OFF.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_SelectionRange_24x.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_SelectionRange_24x.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Record_24x_OFF.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Record_24x_OFF.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Record_24x.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Record_24x.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Recording_24x_OFF.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Recording_24x_OFF.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Recording_24x.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Recording_24x.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Starship/EditorViewport/ToolBarLeftGroup.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Starship/EditorViewport/ToolBarLeftGroup.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Starship/EditorViewport/ToolBarMiddleGroup.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Starship/EditorViewport/ToolBarMiddleGroup.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Starship/EditorViewport/ToolBarRightGroup.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Starship/EditorViewport/ToolBarRightGroup.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/toolbar_expand_16x.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/toolbar_expand_16x.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SmallRoundedButton.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SmallRoundedButton.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SmallRoundedButtonLeft.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SmallRoundedButtonLeft.png
+[2021.07.02-14.13.26:349][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SmallRoundedButtonCentre.png' error.
+[2021.07.02-14.13.26:349][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SmallRoundedButtonCentre.png
+[2021.07.02-14.13.26:350][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SmallRoundedButtonRight.png' error.
+[2021.07.02-14.13.26:350][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SmallRoundedButtonRight.png
+[2021.07.02-14.13.26:350][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/Button.png' error.
+[2021.07.02-14.13.26:350][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/Button.png
+[2021.07.02-14.13.26:350][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SortUpArrow.png' error.
+[2021.07.02-14.13.26:350][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SortUpArrow.png
+[2021.07.02-14.13.26:350][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Play_24x.png
+[2021.07.02-14.13.26:351][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SortDownArrow.png' error.
+[2021.07.02-14.13.26:351][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SortDownArrow.png
+[2021.07.02-14.13.26:351][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SortUpArrows.png' error.
+[2021.07.02-14.13.26:351][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SortUpArrows.png
+[2021.07.02-14.13.26:351][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SortDownArrows.png' error.
+[2021.07.02-14.13.26:351][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SortDownArrows.png
+[2021.07.02-14.13.26:351][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ColumnHeader.png' error.
+[2021.07.02-14.13.26:351][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ColumnHeader.png
+[2021.07.02-14.13.26:351][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ColumnHeader_Arrow.png' error.
+[2021.07.02-14.13.26:351][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ColumnHeader_Arrow.png
+[2021.07.02-14.13.26:351][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ColumnHeader_Hovered.png' error.
+[2021.07.02-14.13.26:351][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ColumnHeader_Hovered.png
+[2021.07.02-14.13.26:351][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ColumnHeaderMenuButton_Normal.png' error.
+[2021.07.02-14.13.26:351][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ColumnHeaderMenuButton_Normal.png
+[2021.07.02-14.13.26:351][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ColumnHeaderMenuButton_Hovered.png' error.
+[2021.07.02-14.13.26:351][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ColumnHeaderMenuButton_Hovered.png
+[2021.07.02-14.13.26:351][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/HeaderSplitterGrip.png' error.
+[2021.07.02-14.13.26:351][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/LastColumnHeader_Hovered.png' error.
+[2021.07.02-14.13.26:351][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/HeaderSplitterGrip.png
+[2021.07.02-14.13.26:351][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/LastColumnHeader_Hovered.png
+[2021.07.02-14.13.26:351][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/TableViewHeader.png' error.
+[2021.07.02-14.13.26:351][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/TableViewHeader.png
+[2021.07.02-14.13.26:351][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/HyperlinkDotted.png' error.
+[2021.07.02-14.13.26:351][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/HyperlinkDotted.png
+[2021.07.02-14.13.26:351][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/HyperlinkUnderline.png' error.
+[2021.07.02-14.13.26:351][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/HyperlinkUnderline.png
+[2021.07.02-14.13.26:351][  0]LogMoviePlayer: Initializing movie player
+[2021.07.02-14.13.26:352][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.07.02-14.13.26:352][  0]LogOcInput: OculusInput pre-init called
+[2021.07.02-14.13.26:357][  0]LogUObjectArray: 17052 objects as part of root set at end of initial load.
+[2021.07.02-14.13.26:357][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2021.07.02-14.13.26:357][  0]LogUObjectAllocator: 3420632 out of 0 bytes used by permanent object pool.
+[2021.07.02-14.13.26:357][  0]LogUObjectArray: CloseDisregardForGC: 17052/17052 objects in disregard for GC pool
+[2021.07.02-14.13.26:357][  0]LogStreaming: Display: AsyncLoading2 - Thread Started: true, IsInitialLoad: false
+[2021.07.02-14.13.26:360][  0]LogEngine: Initializing Engine...
+[2021.07.02-14.13.26:360][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.07.02-14.13.26:409][  0]LogStreaming: Display: AsyncLoading2 - InitialLoad Finalized: 16586 script object entries in 458.27 KB
+[2021.07.02-14.13.26:409][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.02-14.13.26:410][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.07.02-14.13.26:410][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.07.02-14.13.26:410][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.07.02-14.13.26:410][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-14.13.26:410][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-14.13.26:410][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-14.13.26:410][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-14.13.26:410][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-14.13.26:410][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-14.13.26:410][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-14.13.26:410][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-14.13.26:410][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-14.13.26:410][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-14.13.26:425][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.02-14.13.26:444][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-14.13.26:444][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-14.13.26:455][  0]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis Pro Game)
+[2021.07.02-14.13.26:455][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-14.13.26:456][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-14.13.26:456][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-14.13.26:457][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-14.13.26:457][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-14.13.26:457][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-14.13.26:457][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-14.13.26:457][  0]LogInit: FAudioDevice initialized.
+[2021.07.02-14.13.26:458][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.07.02-14.13.26:458][  0]LogInit: Texture streaming: Enabled
+[2021.07.02-14.13.26:462][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.07.02-14.13.26:462][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-14.13.26:463][  0]LogInit: Display: Game Engine Initialized.
+[2021.07.02-14.13.26:463][  0]LogInit: Display: Starting Game.
+[2021.07.02-14.13.26:463][  0]LogNet: Browse: /Game/Maps/MainMenu?Name=Player
+[2021.07.02-14.13.26:463][  0]LogLoad: LoadMap: /Game/Maps/MainMenu?Name=Player
+[2021.07.02-14.13.26:463][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2021.07.02-14.13.26:463][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-14.13.26:464][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-14.13.26:465][  0]LogStreaming: Display: 0.003 ms for skipping 25 objects in NotifyUnreachableObjects (Queued=0, Async=0).
+[2021.07.02-14.13.26:466][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-14.13.26:467][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.07.02-14.13.26:475][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.07.02-14.13.26:476][  0]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.02-14.13.26:476][  0]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode (0xF232E52A3A06114A) - The package to load does not exist on disk or in the loader
+[2021.07.02-14.13.26:476][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2021.07.02-14.13.26:476][  0]LogLoad: Game class is 'GameModeBase'
+[2021.07.02-14.13.26:477][  0]LogWorld: Bringing World /Game/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2021.07.02-16.13.26
+[2021.07.02-14.13.26:477][  0]LogWorld: Bringing up level for play took: 0.000720
+[2021.07.02-14.13.26:479][  0]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.07.02-14.13.26:479][  0]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.07.02-14.13.26:479][  0]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.07.02-14.13.26:479][  0]LogLoad: Took 0.015542 seconds to LoadMap(/Game/Maps/MainMenu)
+[2021.07.02-14.13.26:479][  0]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2021.07.02-14.13.26:622][  0]LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
+[2021.07.02-14.13.26:622][  0]LogPakFile: AllPaks IndexSizes: DirectoryHashSize=136880, PathHashSize=16, EntriesSize=16368, TotalSize=153264
+[2021.07.02-14.13.26:622][  0]LogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
+[2021.07.02-14.13.26:622][  0]LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+[2021.07.02-14.13.26:622][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.07.02-14.13.26:622][  0]LogLoad: (Engine Initialization) Total time: 1.24 seconds
+[2021.07.02-14.13.26:626][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.02-14.13.26:627][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-14.13.26:640][  0]LogSlate: Slate font cache was flushed
+[2021.07.02-14.13.26:642][  1]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2021.07.02-14.13.28:376][450]LogOnlineSession: STEAM: Found 1 lobbies, finalizing the search
+[2021.07.02-14.13.28:377][450]LogOnlineSession: STEAM: Search result 0: LobbyId=Lobby[0x18600000BD32D32], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2021.07.02-14.13.28:377][450]LogScript: Script Msg: Found a session. Ping is 9999
+[2021.07.02-14.13.28:378][451]LogOnlineSession: Warning: STEAM: FOnlineAsyncTaskSteamFindServerBase::Tick - SearchSettings->MaxSearchResults should be greater than 0, but it is currently 0. No search results will be found.
+[2021.07.02-14.13.41:251][478]LogOnlineSession: STEAM: Found 1 lobbies, finalizing the search
+[2021.07.02-14.13.41:251][478]LogOnlineSession: STEAM: Search result 0: LobbyId=Lobby[0x18600000BD32D32], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2021.07.02-14.13.43:612][ 41]LogOnlineSession: STEAM: Using P2P Data for Connection Serialization
+[2021.07.02-14.13.43:612][ 41]LogOnlineSession: OSS: Join session: traveling to steam.76561198110715769:7777
+[2021.07.02-14.13.43:613][ 41]LogNet: Browse: steam.76561198110715769/Game/Maps/MainMenu
+[2021.07.02-14.13.43:613][ 41]LogNet: Display: SteamNetDriver_2147482502 bound to port 7777
+[2021.07.02-14.13.43:613][ 41]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.02-14.13.43:613][ 41]LogOnline: STEAM: Adding user 76561198110715769:7777 from RegisterConnection
+[2021.07.02-14.13.43:613][ 41]LogNet: Game client on port 7777, rate 100000
+[2021.07.02-14.13.45:287][476]LogOnlineSession: Warning: STEAM: Session (GameSession) already exists, can't join twice
+[2021.07.02-14.13.45:458][522]LogOnlineSession: Warning: STEAM: Session (GameSession) already exists, can't join twice
+[2021.07.02-14.13.45:609][561]LogOnlineSession: Warning: STEAM: Session (GameSession) already exists, can't join twice
+[2021.07.02-14.13.45:750][598]LogOnlineSession: Warning: STEAM: Session (GameSession) already exists, can't join twice
+[2021.07.02-14.13.47:699][125]LogHandshake: SendChallengeResponse. Timestamp: 69.073788, Cookie: 221252133037213033210201200148199121074215038046182209087172
+[2021.07.02-14.13.47:699][125]LogHandshake: SendChallengeResponse. Timestamp: 69.073788, Cookie: 221252133037213033210201200148199121074215038046182209087172
+[2021.07.02-14.13.47:699][125]LogHandshake: SendChallengeResponse. Timestamp: 69.073788, Cookie: 221252133037213033210201200148199121074215038046182209087172
+[2021.07.02-14.13.47:699][125]LogHandshake: SendChallengeResponse. Timestamp: 69.073788, Cookie: 221252133037213033210201200148199121074215038046182209087172
+[2021.07.02-14.13.47:699][125]LogHandshake: SendChallengeResponse. Timestamp: 69.073788, Cookie: 221252133037213033210201200148199121074215038046182209087172
+[2021.07.02-14.13.47:706][127]LogOnlineSession: Warning: STEAM: Session (GameSession) already exists, can't join twice
+[2021.07.02-14.13.47:723][132]LogNetVersion: MyProject29 1.0.0.0, NetCL: 16433597, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2579874946)
+[2021.07.02-14.13.47:723][132]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 76561198110715769:7777, Name: SteamNetConnection_2147482501, Driver: PendingNetDriver SteamNetDriver_2147482502, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.02-14.13.47:772][145]LogNet: Welcomed by server (Level: /Game/Maps/ThirdPersonExampleMap, Game: /Game/Character/ThirdPerson/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2021.07.02-14.13.47:772][145]LogLoad: LoadMap: steam.76561198110715769/Game/Maps/ThirdPersonExampleMap?game=/Game/Character/ThirdPerson/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2021.07.02-14.13.47:772][145]LogWorld: BeginTearingDown for /Game/Maps/MainMenu
+[2021.07.02-14.13.47:772][145]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-14.13.47:772][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-14.13.47:794][145]LogStreaming: Display: 0.050 ms (0.019+0.030) ms for processing 54/223 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 14/14 (105->91 tracked) packages and 40/40 (158->118 tracked) public exports.
+[2021.07.02-14.13.47:794][145]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-14.13.47:796][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.07.02-14.13.47:797][145]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.07.02-14.13.47:816][145]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.07.02-14.13.47:820][145]LogWorld: Bringing World /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.07.02-16.13.47
+[2021.07.02-14.13.47:820][145]LogWorld: Bringing up level for play took: 0.002144
+[2021.07.02-14.13.47:820][145]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.07.02-14.13.47:820][145]LogLoad: Took 0.048562 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2021.07.02-14.13.47:821][145]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.07.02-14.13.47:918][147]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.07.02-14.13.47:918][147]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.07.02-14.14.27:785][425]LogStreaming: Display: 0.011 ms (0.003+0.007) ms for processing 7/46 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (178->178 tracked) packages and 7/7 (362->355 tracked) public exports.
+[2021.07.02-14.15.28:886][280]LogStreaming: Display: 0.003 ms for skipping 21 objects in NotifyUnreachableObjects (Queued=0, Async=0).
